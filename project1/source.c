@@ -3,10 +3,12 @@
  * Date: 20-09-2022 
 */
 #include <stdio.h>
+
+
 main()
 {
- printf("It's fun to write my own program in C");
- return0;
+   printf ("It's fun to write my own program in C.\n");
+   return 0;
 }
 
 
