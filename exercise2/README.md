@@ -1,1 +1,1 @@
-This program multiply two integers.
+This program multiplies two integers.
